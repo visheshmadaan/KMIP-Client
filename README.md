@@ -1,2 +1,2 @@
-# KMIP-Client
-Developing a KMIP Client 
+## KMIP-Client
+*Developing a KMIP Client*
